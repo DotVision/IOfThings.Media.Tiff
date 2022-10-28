@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <RootNamespace>IOfThings.Media</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Guillaume Pelletier</Authors>
+    <Company>DotVision</Company>
+    <Product>BlueForest</Product>
+    <Description>TIFF format parsing library</Description>
+    <Copyright>DotVision</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/DotVision/IOfThings.Media.Tiff</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/DotVision/IOfThings.Media.Tiff</RepositoryUrl>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <RepositoryType>GIT</RepositoryType>
+    <PackageTags>TIFF, Image, c#</PackageTags>
+    <PackageReleaseNotes>Initial realease</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>
